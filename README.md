@@ -3,7 +3,7 @@
 - 👀 I’m interested in developing cool and interesting stuffs.
 - 🌱 I’m currently working in .net and angular full stack, and learning react and javascript/typescript stack.
 - 💞️ Ask me anything on Angular, .net, React, Javscript. 
-- 📫 You can email me on hardsree123@gmail.com
+- 📫 You can email me on kumar.sreejith@outlook.com
 - 👨‍💻 &nbsp;Read more about me at [sreejithkumarm.vercel.app](https://sreejithkumarm.vercel.app/)
 
 🔗 &nbsp;**Connect with me**
